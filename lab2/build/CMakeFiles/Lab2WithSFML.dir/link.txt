@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Lab2WithSFML.dir/main.cpp.o -o Lab2WithSFML  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libGL.so -lGLU /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 

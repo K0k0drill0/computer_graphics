@@ -1,0 +1,3 @@
+/home/kokodrillo/university/5sem/computer_graphics/lab1/build/CMakeFiles/Lab1.dir
+/home/kokodrillo/university/5sem/computer_graphics/lab1/build/CMakeFiles/edit_cache.dir
+/home/kokodrillo/university/5sem/computer_graphics/lab1/build/CMakeFiles/rebuild_cache.dir

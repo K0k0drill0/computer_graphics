@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGLWithSFMLGLM.dir/main.cpp.o -o OpenGLWithSFMLGLM  /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLEW.so /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 

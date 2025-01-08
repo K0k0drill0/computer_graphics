@@ -1,0 +1,3 @@
+/home/kokodrillo/university/5sem/computer_graphics/lab4/build/CMakeFiles/OpenGLWithSFMLGLM.dir
+/home/kokodrillo/university/5sem/computer_graphics/lab4/build/CMakeFiles/edit_cache.dir
+/home/kokodrillo/university/5sem/computer_graphics/lab4/build/CMakeFiles/rebuild_cache.dir
