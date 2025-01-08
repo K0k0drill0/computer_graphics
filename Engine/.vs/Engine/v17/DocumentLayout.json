@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objects\\objects3d\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objects\\objects3d\\cube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\toolbar\\gui_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\toolbar\\gui_helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objects\\objects3d\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objects\\objects3d\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objects\\object3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objects\\object3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objects\\objectsinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objects\\objectsinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objects\\objects2d\\font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objects\\objects2d\\font.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\userclass\\uplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\userclass\\uplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objects\\commondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objects\\commondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\systeminteraction\\nativefiledialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\systeminteraction\\nativefiledialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\lights\\spotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\lights\\spotlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\hud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\lights\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\lights\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\lights\\toolbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\lights\\toolbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|d:\\labs\\5sem\\comp_graphics\\engine\\engine\\engine\\toolbar\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF9AF10-44A4-49E7-A762-0EDCA8F7B5AE}|Engine\\Engine.csproj|solutionrelative:engine\\toolbar\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NativeFileDialog.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\SystemInteraction\\NativeFileDialog.cs",
+              "RelativeDocumentMoniker": "Engine\\SystemInteraction\\NativeFileDialog.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\SystemInteraction\\NativeFileDialog.cs",
+              "RelativeToolTip": "Engine\\SystemInteraction\\NativeFileDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:23:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommonData.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\CommonData.cs",
+              "RelativeDocumentMoniker": "Engine\\Objects\\CommonData.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\CommonData.cs",
+              "RelativeToolTip": "Engine\\Objects\\CommonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T12:02:00.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UPlayer.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\UserClass\\UPlayer.cs",
+              "RelativeDocumentMoniker": "Engine\\UserClass\\UPlayer.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\UserClass\\UPlayer.cs",
+              "RelativeToolTip": "Engine\\UserClass\\UPlayer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:53:53.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Player.cs",
+              "RelativeDocumentMoniker": "Engine\\Player.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Player.cs",
+              "RelativeToolTip": "Engine\\Player.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAAwBsBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:53:43.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Font.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Objects2D\\Font.cs",
+              "RelativeDocumentMoniker": "Engine\\Objects\\Objects2D\\Font.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Objects2D\\Font.cs",
+              "RelativeToolTip": "Engine\\Objects\\Objects2D\\Font.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAwwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:49:08.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectsInstance.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\ObjectsInstance.cs",
+              "RelativeDocumentMoniker": "Engine\\Objects\\ObjectsInstance.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\ObjectsInstance.cs",
+              "RelativeToolTip": "Engine\\Objects\\ObjectsInstance.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAwN4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:43:39.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Object3D.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Object3D.cs",
+              "RelativeDocumentMoniker": "Engine\\Objects\\Object3D.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Object3D.cs",
+              "RelativeToolTip": "Engine\\Objects\\Object3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:43:38.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pyramid.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Objects3D\\Pyramid.cs",
+              "RelativeDocumentMoniker": "Engine\\Objects\\Objects3D\\Pyramid.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Objects3D\\Pyramid.cs",
+              "RelativeToolTip": "Engine\\Objects\\Objects3D\\Pyramid.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAqwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:26:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cube.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Objects3D\\Cube.cs",
+              "RelativeDocumentMoniker": "Engine\\Objects\\Objects3D\\Cube.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Objects\\Objects3D\\Cube.cs",
+              "RelativeToolTip": "Engine\\Objects\\Objects3D\\Cube.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAxwAUBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:25:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUI_Helper.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\ToolBar\\GUI_Helper.cs",
+              "RelativeDocumentMoniker": "Engine\\ToolBar\\GUI_Helper.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\ToolBar\\GUI_Helper.cs",
+              "RelativeToolTip": "Engine\\ToolBar\\GUI_Helper.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:06:34.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Light.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Lights\\Light.cs",
+              "RelativeDocumentMoniker": "Engine\\Lights\\Light.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Lights\\Light.cs",
+              "RelativeToolTip": "Engine\\Lights\\Light.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:56:37.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpotLight.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Lights\\SpotLight.cs",
+              "RelativeDocumentMoniker": "Engine\\Lights\\SpotLight.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Lights\\SpotLight.cs",
+              "RelativeToolTip": "Engine\\Lights\\SpotLight.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwFoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:49:33.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HUD.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\HUD.cs",
+              "RelativeDocumentMoniker": "Engine\\HUD.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\HUD.cs",
+              "RelativeToolTip": "Engine\\HUD.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAAADMBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:50:56.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToolBar.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Lights\\ToolBar.cs",
+              "RelativeDocumentMoniker": "Engine\\Lights\\ToolBar.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Lights\\ToolBar.cs",
+              "RelativeToolTip": "Engine\\Lights\\ToolBar.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:31:05.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Window.cs",
+              "RelativeDocumentMoniker": "Engine\\Window.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Window.cs",
+              "RelativeToolTip": "Engine\\Window.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T14:47:28.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Program.cs",
+              "RelativeDocumentMoniker": "Engine\\Program.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Program.cs",
+              "RelativeToolTip": "Engine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:29:13.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "Engine\\ObjectManager.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\ObjectManager.cs",
+              "RelativeToolTip": "Engine\\ObjectManager.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwGYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:07:27.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\ToolBar\\Transform.cs",
+              "RelativeDocumentMoniker": "Engine\\ToolBar\\Transform.cs",
+              "ToolTip": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\ToolBar\\Transform.cs",
+              "RelativeToolTip": "Engine\\ToolBar\\Transform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:07:24.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
