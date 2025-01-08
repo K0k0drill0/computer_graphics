@@ -1578,11 +1578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Engine.csproj",
+      "projectUniqueName": "D:\\data_bases\\computer_graphics\\Engine\\Engine\\Engine.csproj",
       "projectName": "Engine",
-      "projectPath": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Engine.csproj",
+      "projectPath": "D:\\data_bases\\computer_graphics\\Engine\\Engine\\Engine.csproj",
       "packagesPath": "C:\\Users\\asana\\.nuget\\packages\\",
-      "outputPath": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\obj\\",
+      "outputPath": "D:\\data_bases\\computer_graphics\\Engine\\Engine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\общие компоненты\\NuGetPackages"

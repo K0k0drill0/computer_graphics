@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zHbGuzRb610=",
+  "dgSpecHash": "V8IVCjrAdlg=",
   "success": true,
-  "projectFilePath": "D:\\LABS\\5sem\\comp_graphics\\Engine\\Engine\\Engine\\Engine.csproj",
+  "projectFilePath": "D:\\data_bases\\computer_graphics\\Engine\\Engine\\Engine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asana\\.nuget\\packages\\imgui.net\\1.91.0.1\\imgui.net.1.91.0.1.nupkg.sha512",
     "C:\\Users\\asana\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
